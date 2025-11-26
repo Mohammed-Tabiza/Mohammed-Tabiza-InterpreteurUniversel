@@ -1,0 +1,7 @@
+{
+  "name": "Interprète Universel Live",
+  "description": "Un agent interprète en temps réel pour service client, traduisant instantanément entre le français et n'importe quelle langue étrangère.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
